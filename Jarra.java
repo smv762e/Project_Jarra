@@ -40,5 +40,6 @@ public String toString() {
  public void metodoComunitario(){
  // Comentario incluido para pruebas
  System.out.println("Aqui escribimos todos");
+ System.out.println("Alumno 3: Juan Carlos Ruiz Ruiz");
  }
  
