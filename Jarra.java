@@ -25,22 +25,25 @@ public class Jarra { //atributos
     this.cantidad=0;
    }
  // 3
- public	void	llenaDesde(Jarra	j)
-{
-	while((this.cantidad<this.capacidad)&&(j.cantidad>0))
-	{
-		this.cantidad++;
-		j.cantidad--;
-	}
-}
+ public	void llenaDesde(Jarra j) {
+  while((this.cantidad<this.capacidad)&&(j.cantidad>0))
+  {
+	this.cantidad++;
+	j.cantidad--;
+  }
+ }
 
-public String toString()
-{
-	return("("+this.capacidad+","+this.cantidad+")");
+public String toString() {
+ return("("+this.capacidad+","+this.cantidad+")");
 }
  
  public void metodoComunitario(){
  // Comentario incluido para pruebas
+<<<<<<< HEAD
  System.out.println("Sergio Martín Vera");
+=======
+ System.out.println("Aqui escribimos todos");
+ System.out.println("Alumno 3: Juan Carlos Ruiz Ruiz");
+>>>>>>> 8bc6afdffad276520c15c82a7bd67b07589aeefa
  }
  
