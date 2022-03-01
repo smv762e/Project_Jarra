@@ -42,5 +42,7 @@ public String toString()
  public void metodoComunitario(){
  // Comentario incluido para pruebas
  System.out.println("Aqui escribimos todos");
+ System.out.println("Alumno 2: Hugo Avalos de Rorthais");
+
  }
  
