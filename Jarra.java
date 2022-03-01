@@ -39,16 +39,8 @@ public String toString() {
  
  public void metodoComunitario(){
  // Comentario incluido para pruebas
-<<<<<<< HEAD
- System.out.println("Sergio Martín Vera");
-=======
- System.out.println("Aqui escribimos todos");
-<<<<<<< HEAD
+ System.out.println("Alumno 1: Sergio Martín Vera");
  System.out.println("Alumno 2: Hugo Avalos de Rorthais");
-
-=======
  System.out.println("Alumno 3: Juan Carlos Ruiz Ruiz");
->>>>>>> 8bc6afdffad276520c15c82a7bd67b07589aeefa
->>>>>>> dbe456f62aa650b17078ffde595a7827772d1c58
  }
  
